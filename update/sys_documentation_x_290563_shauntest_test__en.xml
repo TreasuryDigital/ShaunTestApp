@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Test" language="en" table="x_290563_shauntest_test">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Test</label>
+            <language>en</language>
+            <name>x_290563_shauntest_test</name>
+            <plural>Tests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-13 19:57:18</sys_created_on>
+            <sys_id>a65152aadb522300a7c8771c8c961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Test</sys_name>
+            <sys_package display_value="ShaunTestApp" source="x_290563_shauntest">d63192e6db122300a7c8771c8c9619c8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ShaunTestApp">d63192e6db122300a7c8771c8c9619c8</sys_scope>
+            <sys_update_name>sys_documentation_x_290563_shauntest_test__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-13 19:57:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
