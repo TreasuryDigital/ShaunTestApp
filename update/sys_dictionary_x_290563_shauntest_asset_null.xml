@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_290563_shauntest_test">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="" extends="alm_asset" table="x_290563_shauntest_asset">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -35,7 +35,7 @@
         <internal_type display_value="Collection">collection</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <name>x_290563_shauntest_test</name>
+        <name>x_290563_shauntest_asset</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -52,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-12-13 19:57:17</sys_created_on>
-        <sys_id>d4e21262dbd2230060c1bd51399619ee</sys_id>
+        <sys_created_on>2018-12-13 20:05:48</sys_created_on>
+        <sys_id>5f43d6a2dbd2230060c1bd51399619d3</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_290563_shauntest_test</sys_name>
+        <sys_name>x_290563_shauntest_asset</sys_name>
         <sys_package display_value="ShaunTestApp" source="x_290563_shauntest">d63192e6db122300a7c8771c8c9619c8</sys_package>
         <sys_policy/>
         <sys_scope display_value="ShaunTestApp">d63192e6db122300a7c8771c8c9619c8</sys_scope>
-        <sys_update_name>sys_dictionary_x_290563_shauntest_test_NULL</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-12-13 20:03:57</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_290563_shauntest_asset_null</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-13 20:05:48</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
